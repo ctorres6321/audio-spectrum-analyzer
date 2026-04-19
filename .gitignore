@@ -1,0 +1,29 @@
+# Build folders
+/build/
+/out/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+
+# Windows build outputs
+Debug/
+Release/
+x64/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+#Script
+run.sh
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Misc
+*.log
