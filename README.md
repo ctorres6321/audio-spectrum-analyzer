@@ -45,3 +45,8 @@ Analyze a WAV file:
 - [KissFFT](https://github.com/mborgerding/kissfft)
 - [dr_libs (dr_wav.h - WAV decoding)](https://github.com/mackron/dr_libs)
 
+## Future Improvements
+
+- Add real-time audio input processing
+- Visualize spectrum using a graphical interface
+- Support various audio formats
